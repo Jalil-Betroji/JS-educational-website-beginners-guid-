@@ -9,7 +9,7 @@
  /*================ Grid and page styling =====================  */
 
 body {
-    max-width:  100%;
+    width:  100%;
     display: grid;
     grid-template-columns: repeat(12,8.33%);
     background-color: #5e5454;
